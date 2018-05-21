@@ -1,4 +1,4 @@
 # hello-world
 
-Hello Human
-Just another changes in the master branch readme
+Hello Human and World.
+This is the master.
